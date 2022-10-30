@@ -2,7 +2,9 @@
 Flutter App Project
 
 Members:<br>
-Mark Joshua De Dios
-Marvin Caventa
-Kenneth Perez
-Rodence Atacador
+<ul>
+  <li>Mark Joshua De Dios</li>
+  <li>Marvin Caventa</li>
+  <li>Kenneth Perez</li>
+  <li>Rodence Atacador</li>
+</ul>
